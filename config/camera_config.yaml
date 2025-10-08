@@ -1,0 +1,7 @@
+cameras:
+  - id: "cam_01"
+    location: "Anna Salai - Mount Road Intersection"
+    feed_url: "data/sample_videos/intersection_1.mp4"
+  - id: "cam_02"
+    location: "Guindy Flyover"
+    feed_url: "data/sample_videos/intersection_2.mp4"
